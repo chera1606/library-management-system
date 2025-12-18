@@ -1,0 +1,25 @@
+{
+  "name": "library-management-system",
+  "version": "1.0.0",
+  "description": "A simple Library Management System built with JavaScript and TailwindCSS",
+  "main": "main.js",
+  "scripts": {
+    "start": "vite",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "keywords": [
+    "javascript",
+    "library",
+    "tailwindcss"
+  ],
+  "author": "Cherinet",
+  "license": "MIT",
+  "type": "module",
+  "dependencies": {
+    "@tailwindcss/cli": "^4.1.2",
+    "@tailwindcss/vite": "^4.1.7",
+    "tailwindcss": "^4.1.7",
+    "vite": "^6.3.5"
+  }
+}
