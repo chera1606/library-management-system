@@ -3,7 +3,7 @@ export class User {
     this.name = name;
     this.email = email;
   }
-
+  
   getRole() {
     return "user";
   }
